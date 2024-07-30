@@ -1,6 +1,6 @@
 # Fake News Detection Analysis - LSTM Classification
 
-**Complete Video Tutorial:** https://youtu.be/DdgymahD7Zg
+ 
 
 # Dataset Information
 
